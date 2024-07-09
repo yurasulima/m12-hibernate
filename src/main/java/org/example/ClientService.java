@@ -1,7 +1,7 @@
 package org.example;
 
+import org.example.dao.ClientDao;
 import org.example.dao.model.Client;
-import org.example.dao.model.ClientDao;
 
 public class ClientService {
 

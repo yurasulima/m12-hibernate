@@ -1,7 +1,7 @@
 package org.example;
 
+import org.example.dao.PlanetDao;
 import org.example.dao.model.Planet;
-import org.example.dao.model.PlanetDao;
 
 public class PlanetService {
 
